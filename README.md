@@ -1,2 +1,2 @@
 # simple_bank_application
-aurthor-Rajashekar D
+Author-Rajashekar D
